@@ -1,5 +1,7 @@
 ### Hello there 👋
-I am Mahdi Bouhouch
+I am Mahdi Bouhouch, a computer science engineer passionate about technology.
+
+Portfolio v1.0 : https://amgidhem.github.io/
 <!--
 **AMGIdhem/AMGIdhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
