@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am Mahdi Bouhouch, a computer science engineer passionate about technology.
+I am Mahdi Bouhouch, a software developer passionate about technology.
 
 Portfolio v1.0 : https://amgidhem.github.io/
 <!--
